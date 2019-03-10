@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AsynTask</string>
+    <string name="accelerometer_app">TH Sensor Driver</string>
+    <string name="temp">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="activity">Activity:</string>
+    <string name="sensor_reading">Number of Sensor Readings:</string>
+    <string name="generate">Generate</string>
+    <string name="cancel">Cancel</string>
+    <string name="sensor_value">0</string>
+    <string name="temp_value">0</string>
+    <string name="humidity_value">0</string>
+    <string name="activity_value">0</string>
+    <string name="output">Output</string>
+</resources>
